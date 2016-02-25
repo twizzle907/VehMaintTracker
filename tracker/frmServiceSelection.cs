@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*  Authors:  Rikki Swetzof & Carrie Fowler
+ * November 2015*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
